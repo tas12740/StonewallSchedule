@@ -1,0 +1,13 @@
+D, Bowling League, Bowl FOR YOUR LIFE!, Bowl-jangles, Finger Holes, Framing Queens, Glory Bowl, Great Balls of Fire, Gutter Trash, High Rollers, I Can't Believe It's Not Gutter, If I Were A Bowl ..., Knuckles Deep, Kween Pins, MINDS IN THE GUTTERS, No Safe Word, Patty Cakes and Hamm, Pin Pals, Split My Ass, Split or Swallow, Strike a Pose, The Britney Spares, The Green Monkey, The Spare-odactyls
+F, Lanes 1 and 2, 1
+F, Lanes 3 and 4, 1
+F, Lanes 5 and 6, 1
+F, Lanes 7 and 8, 1
+F, Lanes 9 and 10, 1
+F, Lanes 11 and 12, 1
+F, Lanes 13 and 14, 1
+F, Lanes 15 and 16, 1
+F, Lanes 17 and 18, 1
+F, Lanes 19 and 20, 1
+F, Lanes 21 and 22, 1
+N, 6

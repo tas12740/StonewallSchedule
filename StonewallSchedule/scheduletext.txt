@@ -1,0 +1,96 @@
+Bowling League
+Bowl FOR YOUR LIFE!
+Bowl-jangles
+Finger Holes
+Framing Queens
+Glory Bowl
+Great Balls of Fire
+Gutter Trash
+High Rollers
+I Can't Believe It's Not Gutter
+If I Were A Bowl ...
+Knuckles Deep
+Kween Pins
+MINDS IN THE GUTTERS
+No Safe Word
+Patty Cakes and Hamm
+Pin Pals
+Split My Ass
+Split or Swallow
+Strike a Pose
+The Britney Spares
+The Green Monkey
+The Spare-odactyls
+
+Week 1
+Bowl FOR YOUR LIFE!	vs	Pin Pals, Lanes 1 and 2
+Bowl-jangles	vs	Split or Swallow, Lanes 3 and 4
+Finger Holes	vs	Glory Bowl, Lanes 5 and 6
+Framing Queens	vs	The Spare-odactyls, Lanes 7 and 8
+Great Balls of Fire	vs	Knuckles Deep, Lanes 9 and 10
+Gutter Trash	vs	Patty Cakes and Hamm, Lanes 11 and 12
+High Rollers	vs	No Safe Word, Lanes 13 and 14
+I Can't Believe It's Not Gutter	vs	The Britney Spares, Lanes 15 and 16
+If I Were A Bowl ...	vs	Split My Ass, Lanes 17 and 18
+Kween Pins	vs	MINDS IN THE GUTTERS, Lanes 19 and 20
+Strike a Pose	vs	The Green Monkey, Lanes 21 and 22
+Week 2
+Bowl FOR YOUR LIFE!	vs	Split or Swallow, Lanes 1 and 2
+Bowl-jangles	vs	If I Were A Bowl ..., Lanes 3 and 4
+Finger Holes	vs	The Green Monkey, Lanes 5 and 6
+Framing Queens	vs	Kween Pins, Lanes 7 and 8
+Glory Bowl	vs	Pin Pals, Lanes 9 and 10
+Great Balls of Fire	vs	MINDS IN THE GUTTERS, Lanes 11 and 12
+Gutter Trash	vs	Split My Ass, Lanes 13 and 14
+High Rollers	vs	The Spare-odactyls, Lanes 15 and 16
+I Can't Believe It's Not Gutter	vs	No Safe Word, Lanes 17 and 18
+Knuckles Deep	vs	Patty Cakes and Hamm, Lanes 19 and 20
+Strike a Pose	vs	The Britney Spares, Lanes 21 and 22
+Week 3
+Bowl FOR YOUR LIFE!	vs	Kween Pins, Lanes 1 and 2
+Bowl-jangles	vs	The Spare-odactyls, Lanes 3 and 4
+Finger Holes	vs	No Safe Word, Lanes 5 and 6
+Framing Queens	vs	The Green Monkey, Lanes 7 and 8
+Glory Bowl	vs	MINDS IN THE GUTTERS, Lanes 9 and 10
+Great Balls of Fire	vs	Pin Pals, Lanes 11 and 12
+Gutter Trash	vs	I Can't Believe It's Not Gutter, Lanes 13 and 14
+High Rollers	vs	If I Were A Bowl ..., Lanes 15 and 16
+Knuckles Deep	vs	Strike a Pose, Lanes 17 and 18
+Patty Cakes and Hamm	vs	Split or Swallow, Lanes 19 and 20
+Split My Ass	vs	The Britney Spares, Lanes 21 and 22
+Week 4
+Bowl FOR YOUR LIFE!	vs	Framing Queens, Lanes 1 and 2
+Bowl-jangles	vs	Gutter Trash, Lanes 3 and 4
+Finger Holes	vs	Strike a Pose, Lanes 5 and 6
+Glory Bowl	vs	If I Were A Bowl ..., Lanes 7 and 8
+Great Balls of Fire	vs	The Green Monkey, Lanes 9 and 10
+High Rollers	vs	Knuckles Deep, Lanes 11 and 12
+I Can't Believe It's Not Gutter	vs	Split My Ass, Lanes 13 and 14
+Kween Pins	vs	The Britney Spares, Lanes 15 and 16
+MINDS IN THE GUTTERS	vs	Patty Cakes and Hamm, Lanes 17 and 18
+No Safe Word	vs	The Spare-odactyls, Lanes 19 and 20
+Pin Pals	vs	Split or Swallow, Lanes 21 and 22
+Week 5
+Bowl FOR YOUR LIFE!	vs	The Britney Spares, Lanes 1 and 2
+Bowl-jangles	vs	Split My Ass, Lanes 3 and 4
+Finger Holes	vs	High Rollers, Lanes 5 and 6
+Framing Queens	vs	Strike a Pose, Lanes 7 and 8
+Glory Bowl	vs	The Green Monkey, Lanes 9 and 10
+Great Balls of Fire	vs	Split or Swallow, Lanes 11 and 12
+Gutter Trash	vs	Knuckles Deep, Lanes 13 and 14
+I Can't Believe It's Not Gutter	vs	If I Were A Bowl ..., Lanes 15 and 16
+Kween Pins	vs	The Spare-odactyls, Lanes 17 and 18
+MINDS IN THE GUTTERS	vs	Pin Pals, Lanes 19 and 20
+No Safe Word	vs	Patty Cakes and Hamm, Lanes 21 and 22
+Week 6
+Bowl FOR YOUR LIFE!	vs	Knuckles Deep, Lanes 1 and 2
+Bowl-jangles	vs	Patty Cakes and Hamm, Lanes 3 and 4
+Finger Holes	vs	The Spare-odactyls, Lanes 5 and 6
+Framing Queens	vs	High Rollers, Lanes 7 and 8
+Glory Bowl	vs	Split or Swallow, Lanes 9 and 10
+Great Balls of Fire	vs	Gutter Trash, Lanes 11 and 12
+I Can't Believe It's Not Gutter	vs	The Green Monkey, Lanes 13 and 14
+If I Were A Bowl ...	vs	No Safe Word, Lanes 15 and 16
+Kween Pins	vs	Strike a Pose, Lanes 17 and 18
+MINDS IN THE GUTTERS	vs	The Britney Spares, Lanes 19 and 20
+Pin Pals	vs	Split My Ass, Lanes 21 and 22
